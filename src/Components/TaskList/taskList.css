@@ -1,0 +1,28 @@
+.tasks-container text {
+   font-size: 18px;
+   font-style: bold;   
+}
+
+.tasks-container {
+    justify-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.task-container {
+    margin: 5px;
+}
+
+.task-container text{
+    margin-left: 10px;
+}
+
+.task-container button{
+    margin-left: 10px;
+}
+
+.menu-container {    
+    text-align: center;
+   
+    margin: 10px;
+}
